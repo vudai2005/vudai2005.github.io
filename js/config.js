@@ -2,13 +2,13 @@ const USER = {
     banks: [{
             name: "MB BANK",
             logo: "./images/mbbank.png",
-            number: "333369693333",
+            number: "0001895611813 ",
             owner: "VU TRONG DAI"
         },
         {
             name: "BIDV BANK",
             logo: "./images/bidv.png",
-            number: "42710000636335",
+            number: "0",
             owner: "VU TRONG DAI"
         },
         {
@@ -20,26 +20,26 @@ const USER = {
         {
             name: "PAYPAL",
             logo: "./images/paypal.png",
-            number: "leanhducprovn",
+            number: "xxxxxxx",
             owner: "VU TRONG DAI"
         },
         {
             name: "MOMO",
             logo: "./images/momo.jpeg",
-            number: "0386897757",
+            number: "0961294092",
             owner: "VU TRONG DAI",
             fastTransfer: true
         },
         {
             name: "ZALO PAY",
             logo: "./images/zalopay.png",
-            number: "0386897757",
+            number: "0961294092",
             owner: "VU TRONG DAI"
         },
         {
             name: "VIETTEL PAY",
             logo: "./images/viettelpay.png",
-            number: "0386897757",
+            number: "0961294092",
             owner: "VU TRONG DAI"
         },
         {
